@@ -1,4 +1,6 @@
-# GPS Here — Política de Privacidade
+# GPS Here — Política de Privacidade e Termos de Uso
 
-Página pública da política de privacidade do app **GPS Here! Simule seu local** (`br.com.extrah.gpshere`),
-publicada via GitHub Pages: <https://f-thms.github.io/gps-here-privacidade/>
+Páginas públicas do app **GPS Here! Simule seu local** (`br.com.extrah.gpshere`), publicadas via GitHub Pages:
+
+- Política de Privacidade: <https://f-thms.github.io/gps-here-privacidade/>
+- Termos de Uso: <https://f-thms.github.io/gps-here-privacidade/termos/>

@@ -94,3 +94,7 @@ importantes também serão informadas na página do app no Google Play.
 
 **Extrah**, mantido por **Fernando Thomas Schmidt**<br>
 E-mail: [contato@extrah.com.br](mailto:contato@extrah.com.br)
+
+---
+
+[Termos de Uso](termos/)
